@@ -1,0 +1,2 @@
+# -subsquid-cli
+tea testnet
